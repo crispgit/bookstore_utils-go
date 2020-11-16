@@ -1,4 +1,4 @@
-module github.com/federicoleon/bookstore_utils-go
+module github.com/crispgit/bookstore_utils-go
 
 go 1.14
 
